@@ -13,3 +13,5 @@ To evaluate the effectiveness of DeepComp, numerical and image-based atmospheric
 In terms of compression ratio, DeepComp outperforms commonly used Windows archivers by an average of 69% and surpasses multilayer autoencoders by 48%. Moreover, DeepComp achieves superior reconstruction performance compared to traditional multilayer autoencoders.
 
 Essentially, DeepComp introduces an attention layer to enhance the compression and reconstruction capabilities of autoencoders. It demonstrates impressive compression ratios and reconstruction performance, outperforming conventional archivers and traditional autoencoders when applied to diverse datasets, including numerical and image-based atmospheric and oceanic data.
+
+**BLOG COMING SOON!!!!**
